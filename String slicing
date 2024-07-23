@@ -1,0 +1,6 @@
+string=("systemconfiguration")
+slice1=slice(2,6)
+slice2=slice(3)
+print("string slicing")
+print(string[slice1])
+print(string[slice2])
